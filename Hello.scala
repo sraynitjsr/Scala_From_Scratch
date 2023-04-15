@@ -1,5 +1,5 @@
 object Hello {
     def main(args: Array[String]) = {
-        println("Welcome to Scala")
+        println("Welcome to Scala World")
     }
 }
