@@ -1,5 +1,5 @@
 import org.jsoup.Jsoup
-object WebScraper {
+object WebScrapping {
   def main(args: Array[String]): Unit = {
     val url = "https://example.com"    
     val doc = Jsoup.connect(url).get()
